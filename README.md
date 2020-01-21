@@ -40,9 +40,9 @@ inglés: to become.
 El pronombre personal de primera persona del singular io se pronuncia
 distinto al español yo, pues debemos poner el acento en la i.
 
-[1]La conjunción, pronombre y relativo che equivale al que espanyol.
+[1] La conjunción, pronombre y relativo che equivale al que espanyol.
 
-[2]Es decir, se pronuncia como en español las palabras guerra o guiar.
+[2] Es decir, se pronuncia como en español las palabras guerra o guiar.
 
 ## 2. Essere, avere e stare. Presente di indicativo
 
@@ -224,9 +224,9 @@ Existe solo una forma para el artículo indeterminante femenino:
 **dimenticare**: olvidar, descuidar. Como podemos observar la forma es totalmente distinta.
 
 #### EL CONSEJO
-los italianos siempre que responden al teléfono utilizan la forma **pronto** que se corresponde con nuestra forma española ¿diga?, ¿quién?. La palabra pronto como adjetivo significa también preparado, listo. Ellos dicen **pronti, via!** Que equivale a preparados, listos, ya!. La palabra española pronto, por otro lado, se traduce en italiano por **presto**, de ahí **a presto**: hasta pronto.
+Los italianos siempre que responden al teléfono utilizan la forma **pronto** que se corresponde con nuestra forma española ¿diga?, ¿quién?. La palabra pronto como adjetivo significa también preparado, listo. Ellos dicen **pronti, via!** Que equivale a preparados, listos, ya!. La palabra española pronto, por otro lado, se traduce en italiano por **presto**, de ahí **a presto**: hasta pronto.
 
-[1]En el español solo existe una forma para el masculino el/los y nunca se apostrofa.  También en el caso del articulo indeterminante un/unos.
+[1] En el español solo existe una forma para el masculino el/los y nunca se apostrofa.  También en el caso del articulo indeterminante un/unos.
 
 ## 5. Verbi modali e presente di indicativo dei verbi irregolari
 
@@ -248,13 +248,14 @@ Hay que tener en cuenta la diferencia entre los verbos sapere y potree en cuanto
 **piacere**: gustar, agradar. Literalmente sería como placer. Es un verbo muy empleado en italiano y presenta irregularidades para mantener el sonido ch. **Piaccio, piaci Piaccio, piaci, piace, piacciamo, piacete, piacciono.** Sobretodo se usa la tercera persona del singular.
 
 #### EL CONSEJO
-cuando escuchamos a un italiano hablar quedamos impresionados del orden y coherencia que presenta su discurso. Esto se debe, entre otras cosas, a que los italianos emplean continuamente palabras con este fin. Estas palabras las encontramos también en español, pero nosotros no las utilizamos tan a menudo. Estas son algunas de ellas:
+Cuando escuchamos a un italiano hablar quedamos impresionados del orden y coherencia que presenta su discurso. Esto se debe, entre otras cosas, a que los italianos emplean continuamente palabras con este fin. Estas palabras las encontramos también en español, pero nosotros no las utilizamos tan a menudo. Estas son algunas de ellas:
 
 -   **comunque**: de todas formas, de todas maneras.
 -   **infatti**: de hecho, en efecto.
 -   **insomma**: en suma, en definitiva, en fin.
 -   **quindi**, dunque: por (lo) tanto, así pues.
 -   **cioè**: es decir, esto es.
+
 
 ## 6. Le preposizioni
 
@@ -342,22 +343,24 @@ Otro de los aspectos importantes de las preposiciones italianas es que se pueden
 **riuscire**: salir bien, tener éxito, conseguir. Es un verbo muy empleado en italiano. **Non riesco a capire**: no consigo entender. También se emplea el verbo idiomático facerla: conseguirlo. **Non ce la faccio**: no lo consigo.
 
 #### EL CONSEJO
-seguramente la palabra **capito** sea la palabra más usada en italiano, en tanto que es una muletilla. A los españoles, al principio, nos suena incluso como ofensiva, pues una traducción literal sería ¿entiendes?. **Questa sera devo fare un esame, capito?** Esta tarde tengo que hacer una examen, sabes? Si tienes planeado un vieja a Italia, es momento para ir simpatizando con esta palabra.
+Seguramente la palabra **capito** sea la palabra más usada en italiano, en tanto que es una muletilla. A los españoles, al principio, nos suena incluso como ofensiva, pues una traducción literal sería ¿entiendes?. **Questa sera devo fare un esame, capito?** Esta tarde tengo que hacer una examen, sabes? Si tienes planeado un vieja a Italia, es momento para ir simpatizando con esta palabra.
 
-[1]Se convierte en **ad** cuando la palabra siguiente comienza por vocal.
+[1] Se convierte en **ad** cuando la palabra siguiente comienza por vocal.
+
 
 ## 7. I possessivi
 
 Los posesivos pueden ser tanto adjetivos como pronombres como sucede en el caso del español. Si, acompañan a nombres, en este caso serán adjetivos, concuerdan en género y número.
 
-| maschile  |         | femminile |         |        |        |        |        |
-| --------- | ------- | --------- | ------- | ------ | ------ | ------ | ------ |
-| singolare | plurale | singulare | plurale |        |        |        |        |
-| mio       | miei    | mia       | mie     |        |        |        |        |
-| tuo       | tuoi    | tua       | tue     |        |        |        |        |
-| suo       | suoi    | sua       | sue     |        |        |        |        |
-| nostro    | nostri  | nostra    | nostre  | vostro | vostri | vostra | vostre |
-| loro      | loro    | loro      | loro    |        |        |        |        |
+| maschile  |         | femminile |         |
+| --------- | ------- | --------- | ------- |
+| singolare | plurale | singulare | plurale |
+| mio       | miei    | mia       | mie     |
+| tuo       | tuoi    | tua       | tue     |
+| suo       | suoi    | sua       | sue     |
+| nostro    | nostri  | nostra    | nostre  |
+| vostro    | vostri  | vostra    | vostre  |
+| loro      | loro    | loro      | loro    |
 
 Los posesivos normalmente van acompañados del artículo determinante, excepto cuando se refieren a sustantivos singulares que indican personas de la familia:
 
@@ -508,7 +511,7 @@ Además de estas irregularidades hay que añadir los verbos que terminan en -dur
 **cancellare**: borrar, anular (vuelo, cita) cancelar. Es un verbo muy empleado en italiano.
 
 #### EL CONSEJO
-en italiano existen dos verbos para expresar el significado del verbo discutir, o mejor dicho, dos verbos que se emplean con mucha frecuencia y que cada uno tiene muy bien delimitado su significado, cosa que no ocurre en el español. De este modo, **discutere (dibattere)** se refiere a discutir en un sentido constructivo, positivo, mientras que **litigare** se refiere a discutir con sentido negativo, a pelearse. En inglés, ocurre lo mismo con los verbos: to discuss y to argue.
+En italiano existen dos verbos para expresar el significado del verbo discutir, o mejor dicho, dos verbos que se emplean con mucha frecuencia y que cada uno tiene muy bien delimitado su significado, cosa que no ocurre en el español. De este modo, **discutere (dibattere)** se refiere a discutir en un sentido constructivo, positivo, mientras que **litigare** se refiere a discutir con sentido negativo, a pelearse. En inglés, ocurre lo mismo con los verbos: to discuss y to argue.
 
 ## 10. Pronomi diretti e indiretti e combinati
 
@@ -854,7 +857,7 @@ hablado?
 -   Cosa stai facendo? ¿Qué estas haciendo?
 -   Cosa ti preoccupa? ¿Qué te preocupa?
 
-[1]Hay que recordar que en italiano los complementos directos jamás llevan
+[1] Hay que recordar que en italiano los complementos directos jamás llevan
 preposición. En cambio, en español, sí que existen casos.
 
 ## 17. Il condizionale
