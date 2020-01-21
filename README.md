@@ -305,15 +305,17 @@ caccia (perro de caza).
 - Cuando nos referimos a tiempo se traduce por dentro de: tra poco (dentro de poco), Mi alzo fra dieci minuti (me levanto dentro de diez minutos).
 - CON su uso es muy similar al español: vado con te (voy contigo)
 - SU su uso también es muy similar, pero esta preposición se emplea con frecuencia, cosa que no ocurre con el sobre español. Salire sul treno: subir al tren.
-- Sul momento: en ese momento.
-- Due su tre: dos de cada tres.
-- Giurare su qualcosa o qualcuno: jugar por algo o alguien.
-- Tirarsi su: animarse, tirarse arriba.
-- Parlare sul serio: hablar en serio.
-- Su ordinazione: por encargo.
-- Contare su qualcuno: contar con alguien
+- **Sul momento**: en ese momento.
+- **Due su tre**: dos de cada tres.
+- **Giurare su qualcosa o qualcuno**: jugar por algo o alguien.
+- **Tirarsi su**: animarse, tirarse arriba.
+- **Parlare sul serio**: hablar en serio.
+- **Su ordinazione**: por encargo.
+- **Contare su qualcuno**: contar con alguien
 - VERSO equivale a hacia. Andare verso un posto: ir hacia un lugar.
-- Ci vediamo verso les cinque: nos vemos sobre/ alrededor de las cinco.  Otro de los aspectos importantes de las preposiciones italianas es que se pueden contraer cuando van seguidas de artículos. Son las llamadas preposiciones articuladas. En el español existe el caso de a y de + el que equivale a al y del. No todas las preposiciones italianas se pueden contraer, solo las siguientes:
+- **Ci vediamo verso les cinque**: nos vemos sobre/ alrededor de las cinco.
+
+Otro de los aspectos importantes de las preposiciones italianas es que se pueden contraer cuando van seguidas de artículos. Son las llamadas preposiciones articuladas. En el español existe el caso de a y de + el que equivale a al y del. No todas las preposiciones italianas se pueden contraer, solo las siguientes:
 
 |  | il    | lo    | la  | l´ | i  | gli   | le |
 |----|-----|-------|-------|---|---|---|---|
@@ -323,11 +325,11 @@ caccia (perro de caza).
 | da | dal | dallo | dalla | dall´ | dai | dagli | dalle |
 | su | sul | sullo | sulla | sull´ | sui | sugli | sulle |
 
-EL VERBO: riuscire: salir bien, tener éxito, conseguir. Es un verbo muy empleado en italiano. Non riesco a capire: no consigo entender. También se emplea el verbo idiomático facerla: conseguirlo. Non ce la faccio: no lo consigo.
+EL VERBO: **riuscire**: salir bien, tener éxito, conseguir. Es un verbo muy empleado en italiano. **Non riesco a capire**: no consigo entender. También se emplea el verbo idiomático facerla: conseguirlo. **Non ce la faccio**: no lo consigo.
 
-EL CONSEJO: seguramente la palabra capito sea la palabra más usada en italiano, en tanto que es una muletilla. A los españoles, al principio, nos suena incluso como ofensiva, pues una traducción literal sería ¿entiendes?. Questa sera devo fare un esame, capito? Esta tarde tengo que hacer una examen, sabes? Si tienes planeado un vieja a Italia, es momento para ir simpatizando con esta palabra.
+EL CONSEJO: seguramente la palabra **capito** sea la palabra más usada en italiano, en tanto que es una muletilla. A los españoles, al principio, nos suena incluso como ofensiva, pues una traducción literal sería ¿entiendes?. **Questa sera devo fare un esame, capito?** Esta tarde tengo que hacer una examen, sabes? Si tienes planeado un vieja a Italia, es momento para ir simpatizando con esta palabra.
 
-[1]Se convierte en ad cuando la palabra siguiente comienza por vocal.
+[1]Se convierte en **ad** cuando la palabra siguiente comienza por vocal.
 
 ## 7. I possessivi
 Los posesivos pueden ser tanto adjetivos como pronombres como sucede en el caso del español. Si, acompañan a nombres, en este caso serán adjetivos, concuerdan en género y número.
@@ -343,161 +345,161 @@ Los posesivos pueden ser tanto adjetivos como pronombres como sucede en el caso 
 
 Los posesivos normalmente van acompañados del artículo determinante, excepto cuando se refieren a sustantivos singulares que indican personas de la familia:
 
-Mio zio: mi tío, suo figlio: su hijo, nostre sorelle: nuestra hermanas.
+- **Mio zio**: mi tío, **suo figlio**: su hijo, **nostre sorelle**: nuestra hermanas.
 
 El posesivo loro como observamos en la tabla es invariable y siempre va acompañado de artículo determinante, tanto en singular como en plural:
 
-La loro città: su ciudad (de ellas), le loro città: sus ciudades (de ellas).
+- **La loro città**: su ciudad (de ellas), le loro città: sus ciudades (de ellas).
 
-EL VERBO: scegliere: elegir, escoger. Es un verbo irregular: scelgo, scegli, sceglie, scegliamo, scegliete, scelgono. Recordad que lleva el sonido sce.
+EL VERBO: **scegliere**: elegir, escoger. Es un verbo irregular: **scelgo, scegli, sceglie, scegliamo, scegliete, scelgono**. Recordad que lleva el sonido sce.
 
-EL CONSEJO: La cortesía es una cosa importante en Italia. Debemos respetar y dirigirnos cortésmente a quien así lo requiera. Para dirigirnos a ellos, debemos emplear la forma Lei para el singular y Voi para el plural (en mayúsculas) y acompañarlas de la forma verbal correspondiente: para el singular la tercera y para el plural la segunda. Corresponde a nuestra forma usted y ustedes y empleamos las mismas formas verbales.
+EL CONSEJO: La cortesía es una cosa importante en Italia. Debemos respetar y dirigirnos cortésmente a quien así lo requiera. Para dirigirnos a ellos, debemos emplear la forma **Lei** para el singular y **Voi** para el plural (en mayúsculas) y acompañarlas de la forma verbal correspondiente: para el singular la tercera y para el plural la segunda. Corresponde a nuestra forma usted y ustedes y empleamos las mismas formas verbales.
 
-- Lei ha ragione: Usted tiene razón
-- Voi avete ragione: Ustedes tienen razón.
+- **Lei ha ragione**: Usted tiene razón
+- **Voi avete ragione**: Ustedes tienen razón.
 
 Además de estás formas estén otras que hacen referencia cuando empleamos los nombres como CD o como CI de la acción. Es español empleamos Le tanto para el primero como para el segundo caso. En italiano, sin embargo, empleamos La para el primer caso (tanto si nos dirigimos a un hombre como a una mujer) y Le para el segundo caso, en el que usamos verbos intransitivos. Veamos los ejemplos:
 
-- La aspetto qui: Le espero aquí.
-- Le chiamo subito: Le llamo en seguida.
+- **La aspetto qui**: Le espero aquí.
+- **Le chiamo subito**: Le llamo en seguida.
 
-En el primer caso, aspettare es un verbo transitivo, en el segundo, chiamare es un verbo intransitivo. Hay que añadir, también, como veremos en la siguiente lección, que la forma de cortesía La concuerda con el participio pasado que empleamos para usar el pretérito perfecto (incluso en el caso de emplear el auxiliar avere) y se puede apostrofar. Le, por el contrario, no se puede apostrofar.
+En el primer caso, aspettare es un verbo transitivo, en el segundo, chiamare es un verbo intransitivo. Hay que añadir, también, como veremos en la siguiente lección, que la forma de cortesía **La** concuerda con el participio pasado que empleamos para usar el pretérito perfecto (incluso en el caso de emplear el auxiliar avere) y se puede apostrofar. **Le**, por el contrario, no se puede apostrofar.
 
 
 ## 8. Il passato prossimo
 
-El passato prossimo equivale a nuestro pretérito perfecto y lo empleamos para referirnos a hechos pasados cercanos al presente, no remotos. En italiano se usa más que en español, ya que en español utilizamos con más frecuencia el indefinido (amé, fui, dormí). La diferencia de su uso radica en que en italiano este tiempo expresa acciones cuyas consecuencias todavía persisten en el presente. Por lo tanto, no diremos en italiano aprendí a leer en la escuela, sino ho imparato (he aprendido) a leggere n a leggere nella scuola. En italiano, el indefinido queda limitado al ámbito literario.  El passato prossimo se forma con el presente de los auxiliares essere o avere + participio pasado del verbo.
+El passato prossimo equivale a nuestro pretérito perfecto y lo empleamos para referirnos a hechos pasados cercanos al presente, no remotos. En italiano se usa más que en español, ya que en español utilizamos con más frecuencia el indefinido (amé, fui, dormí). La diferencia de su uso radica en que en italiano este tiempo expresa acciones cuyas consecuencias todavía persisten en el presente. Por lo tanto, no diremos en italiano aprendí a leer en la escuela, sino **ho imparato** (he aprendido) **a leggere nella scuola**. En italiano, el indefinido queda limitado al ámbito literario.  El passato prossimo se forma con **el presente de los auxiliares essere o avere + participio pasado del verbo**.
 
 El participio pasado del verbo se forma de la siguiente manera:
 
-- Verbos en -are > - a t o
-- Verbos en -ere > - u t o
-- Verbos en -ire > - i t o
+- Verbos en -are > **-ato**
+- Verbos en -ere > **-uto**
+- Verbos en -ire > **-ito**
 
 En el caso del español, siempre usamos el verbo haber (avere) para formar este tiempo verbal. En italiano, empleamos el essere y el avere y su elección depende de varios factores que luego veremos.
 
-Los verbos que forman su passato prossimo con el auxiliar avere siempre terminan en - o, mientras que los verbos que lo forman con el auxiliar essere concuerdan con el sujeto del verbo y se comporta como un adjetivo, pudiendo terminar en - o , - i para el masculino y - a , - e para el femenino. Como ejemplo vamos a utilizar el passato prossimo del verbo essere, el cual tiene las mismas formas que el verbo stare, con el que comparte el participio pasado stato.
+Los verbos que forman su passato prossimo con el auxiliar avere siempre terminan en -o, mientras que los verbos que lo forman con el auxiliar essere concuerdan con el sujeto del verbo y se comporta como un adjetivo, pudiendo terminar en -o , -i para el masculino y -a , -e para el femenino. Como ejemplo vamos a utilizar el passato prossimo del verbo essere, el cual tiene las mismas formas que el verbo stare, con el que comparte el participio pasado stato.
 
-|  |  |
-|--|--|
-| Ho avuto | Sono stato/a |
-| Hai avuto | Sei stato/a |
-| Ha avuto | È stato/a |
+|               |               |
+| ------------- | ------------- |
+| Ho avuto      | Sono stato/a  |
+| Hai avuto     | Sei stato/a   |
+| Ha avuto      | È stato/a     |
 | Abbiamo avuto | Siamo stati/e |
-| Avete avuto | Siete stati/e |
-| Hanno avuto | Sono stati/e |
+| Avete avuto   | Siete stati/e |
+| Hanno avuto   | Sono stati/e  |
 
-Como vemos, el verbo avere forma su participio pasado en - u t o, mientras que el essere lo forma en -ato / i / a / e y no en -uto / i / a / e debido a que coge su formar del verbo stare.
+Como vemos, el verbo avere forma su participio pasado en **-uto**, mientras que el **essere** lo forma en **-ato / i / a / e** y no en **-uto / i / a / e** debido a que coge su formar del verbo stare.
 
 En italiano, como hemos mencionado, se emplean los dos auxiliares para formar este tiempo. Su elección no es absoluta, sino que tan solo se pueden establecer tendencias generales:
 
 - La mayoría de verbos transitivos se conjugan con el auxiliar avere. Los intransitivos también, pero en menor medida.
 - Los verbos reflexivos y los verbos en forma pasiva se conjugan con el verbo auxiliar essere.
-- Con essere, también se conjugan ese otro grupo de verbos intransitivos que indican: estado (stare, rimanere, restare...), movimiento (andare, venire, arrivare, uscire, cadere, durare...), cambio de estado (dimagrire, diventare, cominciare, invecchiare...) y acción impersonal (piacere, sucedere, costare...)
+- Con essere, también se conjugan ese otro grupo de verbos intransitivos que indican:
+  - estado (stare, rimanere, restare...)
+  - movimiento (andare, venire, arrivare, uscire, cadere, durare...)
+  - cambio de estado (dimagrire, diventare, cominciare, invecchiare...)
+  - acción impersonal (piacere, sucedere, costare...)
 
 La problemática no termina aquí, puesto que algunos verbos admiten los dos auxiliares: los verbos impersonales que se refieren a fenómenos meteorológicos, aunque se considera más correcto su uso con essere, y los verbos que pueden ser tanto transitivos (avere) como intransitivos (essere).
 
 Por último, hay que mostrar una tabla con los verbos que no siguen el paradigma anteriormente señalado, pues presentan irregularidades en la formación de su participio pasado:
 
-|  |  |
-|--|--|
-|accendere (encender) | acceso |
-|accogliere (acoger) | acolto |
-|aprire (abrir) | aperto |
-|bere (beber) | bevuto |
-|chiedere (preguntar) | chiesto |
-|chiudere (cerrar) | chiuso |
-|correre (correr) | corso |
-|cuocere (cocer) | cotto |
-|decidere (decidir) | deciso |
-|dirigire (dirigir) | diretto |
-|discutere (discutir) | discusso |
-|dire (decir) | detto |
-|esprimere (expresar) | espresso |
-|essere (ser, existir) | stato |
-|fare (hacer) | fatto |
-|leggere (leer) | letto |
-|mettere (meter) | metto |
-|muovere (mover) | mosso |
-|morire (morir) | morto |
-|nascere (nacer) | nato |
-|nascondere (esconder) | nascosto |
-|offendere (ofender) | offeso |
-|offrire (ofrecer) | offerto |
-|perdere (perder) | perso |
-|prendere (coger) | preso |
-|produrre (producir) | prodotto |
-|rimanere (permanecer) | rimasto |
-|rispondere (responder) | risposto |
-|rompere (romper) | rotto |
-|scegliere (elegir) | scelto |
-|scendere (bajar) | sceso |
-|scrivere (escribir) | scritto |
-|smettere (dejar) | smesso |
-|succedere (suceder) | successo |
-|tradurre (traducir) | tradotto |
-|vedere (ver) | visto |
-|venire (venir) | venuto |
-|vincere (vencer) | vinto |
-|vivere (vivir) | vissuto |
+|                        |          |
+| ---------------------- | -------- |
+| accendere (encender)   | acceso   |
+| accogliere (acoger)    | acolto   |
+| aprire (abrir)         | aperto   |
+| bere (beber)           | bevuto   |
+| chiedere (preguntar)   | chiesto  |
+| chiudere (cerrar)      | chiuso   |
+| correre (correr)       | corso    |
+| cuocere (cocer)        | cotto    |
+| decidere (decidir)     | deciso   |
+| dirigire (dirigir)     | diretto  |
+| discutere (discutir)   | discusso |
+| dire (decir)           | detto    |
+| esprimere (expresar)   | espresso |
+| essere (ser, existir)  | stato    |
+| fare (hacer)           | fatto    |
+| leggere (leer)         | letto    |
+| mettere (meter)        | metto    |
+| muovere (mover)        | mosso    |
+| morire (morir)         | morto    |
+| nascere (nacer)        | nato     |
+| nascondere (esconder)  | nascosto |
+| offendere (ofender)    | offeso   |
+| offrire (ofrecer)      | offerto  |
+| perdere (perder)       | perso    |
+| prendere (coger)       | preso    |
+| produrre (producir)    | prodotto |
+| rimanere (permanecer)  | rimasto  |
+| rispondere (responder) | risposto |
+| rompere (romper)       | rotto    |
+| scegliere (elegir)     | scelto   |
+| scendere (bajar)       | sceso    |
+| scrivere (escribir)    | scritto  |
+| smettere (dejar)       | smesso   |
+| succedere (suceder)    | successo |
+| tradurre (traducir)    | tradotto |
+| vedere (ver)           | visto    |
+| venire (venir)         | venuto   |
+| vincere (vencer)       | vinto    |
+| vivere (vivir)         | vissuto  |
 
-EL VERBO: smettere: dejar, interrumpir. Un consejo: smetti di fumare.
+EL VERBO: **smettere**: dejar, interrumpir. Un consejo: **smetti di fumare**.
 
-EL CONSEJO: En italiano existen dos verbos para el verbo español esperar, al igual que en inglés. Aspettare (to wait): esperar, dejar pasar el tiempo; sperare (to hope): esperar, desear. De aquí nuestras palabras espera y esperanza.
+EL CONSEJO: En italiano existen dos verbos para el verbo español esperar, al igual que en inglés. **Aspettare** (to wait): esperar, dejar pasar el tiempo; **sperare** (to hope): esperar, desear. De aquí nuestras palabras espera y esperanza.
 
 ## 9. L'imperfetto
 
 La mayoría de los verbos tienen un Imperfetto (pretérito imperfecto) regular.
-|  |  |  |
-|---|---|---|---|
-| Io | -avo | -evo | -ivo |
-| Tu | -avi | -evi | -ivi |
-| Lui/lei | -ava | -eva | -iva |
-| Noi | -avamo | -evamo | -ivamo |
-| Voi | -avate | -evate | -ivate |
-| Loro | -avano | -evano | -ivano |
+|         |        |        |
+| ------- | ------ | ------ |
+| Io      | -avo   | -evo   |
+| Tu      | -avi   | -evi   |
+| Lui/lei | -ava   | -eva   |
+| Noi     | -avamo | -evamo |
+| Voi     | -avate | -evate |
+| Loro    | -avano | -evano |
 
-Como podemos observar las desinencias son fáciles de aprender, solo tenemos que poner la vocal que ser refiere a la conjugación + la forma: vo,vi, va, vamo, vate, vano.  Existen algunos verbos irregulares como essere, fare, dire o bere:
+Como podemos observar las desinencias son fáciles de aprender, solo tenemos que poner la vocal que ser refiere a la conjugación + la forma: vo,vi, va, vamo, vate, vano.  Existen algunos verbos irregulares como **essere**, **fare**, **dire** o **bere**:
 
-|  |  |  | |
-|---|---|---|---|
-| ero | facevo | dicevo | bebevo |
-| eri | facevi | dicevi | bebevi |
-| era | faceva | diceva | beveva |
+|         |          |          |          |
+| ------- | -------- | -------- | -------- |
+| ero     | facevo   | dicevo   | bebevo   |
+| eri     | facevi   | dicevi   | bebevi   |
+| era     | faceva   | diceva   | beveva   |
 | eravamo | facevamo | dicevamo | bevevamo |
 | eravate | facevate | dicevate | bevevate |
-| erano | facevano | dicevano | bevevano |
+| erano   | facevano | dicevano | bevevano |
 
-Además de estas irregularidades hay que añadir los verbos que terminan en -durre (tradurre), -porre (comporre) y en -trarre (trarre) que se conjugan según estos modelos:
+Además de estas irregularidades hay que añadir los verbos que terminan en -durre (tradurre), **-porre** (comporre) y en **-trarre** (trarre) que se conjugan según estos modelos:
 
-|  |  |  |
-|---|---|---|
-| traducevo | componevov | traevo |
-| traducevi | componevi | traevi |
-| traduceva | componeva | traeva |
+|             |             |          |
+| ----------- | ----------- | -------- |
+| traducevo   | componevov  | traevo   |
+| traducevi   | componevi   | traevi   |
+| traduceva   | componeva   | traeva   |
 | traducevamo | componevamo | traevamo |
 | traducevate | componevate | traevate |
 | traducevano | componevano | traevano |
 
-EL VERBO: cancellare: borrar, anular (vuelo, cita) cancelar. Es un verbo muy empleado en italiano.
+EL VERBO: **cancellare**: borrar, anular (vuelo, cita) cancelar. Es un verbo muy empleado en italiano.
 
-EL CONSEJO: en italiano existen dos verbos para expresar el significado del verbo discutir, o mejor dicho, dos verbos que se emplean con mucha frecuencia y que cada uno tiene muy bien delimitado su significado, cosa que no ocurre en el español. De este modo, discutere (dibattere) se refiere a discutir en un sentido
-
-constructivo, positivo, mientras que litigare se refiere a discutir con sentido
-negativo, a pelearse. En inglés, ocurre lo mismo con los verbos: to discuss y t o
-argue.
+EL CONSEJO: en italiano existen dos verbos para expresar el significado del verbo discutir, o mejor dicho, dos verbos que se emplean con mucha frecuencia y que cada uno tiene muy bien delimitado su significado, cosa que no ocurre en el español. De este modo, **discutere (dibattere)** se refiere a discutir en un sentido constructivo, positivo, mientras que **litigare** se refiere a discutir con sentido negativo, a pelearse. En inglés, ocurre lo mismo con los verbos: to discuss y to argue.
 
 ## 10. Pronomi diretti e indiretti e combinati
 Los pronombres directos los usamos para sustituir a complementos directos. Los pronombres directos tienen dos formas, una débil o átona (delante del verbo) y otra fuerte o tónica (detrás del verbo). En español no existe o no se usa la forma tónica.
 
-|  |  |
-|---|---|---|
-| mi | me | me |
-| ti | te | te |
-| lo, la (La) | lui, lei, Lei | lo, la |
-| ci | noi | nos |
-| vi | voi | os |
-| li, le | loro (Loro) | los, las |
+|             |               |
+| ----------- | ------------- |
+| mi          | me            |
+| ti          | te            |
+| lo, la (La) | lui, lei, Lei |
+| ci          | noi           |
+| vi          | voi           |
+| li, le      | loro (Loro)   |
 
 Todas las formas débiles de los pronombres directos en italiano pueden apostrofarse, excepto li y le porque sino sus formas apostrofadas serían idénticas a las formas apostrofadas de lo, la.
 
