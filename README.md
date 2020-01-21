@@ -115,33 +115,34 @@ Por regla general, los sustantivos terminados en - o son masculinos y su plural 
 
 Los sustantivos terminados en - e son tanto masculinos como femeninos. La mayoría de los sustantivos masculinos indican género masculino o terminan en -ore. Mientras que la mayoría de los sustantivos femeninos indican género femenino o terminan en -zione, -sione, -gione. El plural de ambos siempre termina en - i.
 
-Masculinos à cane (perro) > cani / padre (padre) > padri / fiore (flor) > fiori
+Masculinos à **cane** (perro) > **cani** / **padre** (padre) > **padri** / **fiore** (flor) > **fiori**
 
-Femeninosà chiave (llave) > chiavi / madre (madre) > madri / tentazione (tentación) > tentazioni
+Femeninos à **chiave** (llave) > **chiavi** / **madre** (madre) > **madri** / **tentazione** (tentación) > **tentazioni**
 
 Obviamente, existen muchas excepciones, simplemente nombraremos algunas:
 
-- Los sustantivos masculinos terminados en -a como poema o problema y sustantivos
+- Los sustantivos masculinos terminados en -a como **poema** o **problema** y sustantivos femeninos terminados en -o como **radio** o **mano** [1].
+- Los sustantivos terminados en -ista pueden ser masculinos o femeninos. Su plural es
 doble dependiendo del género:
-    - artista (artista) > artista (m), artiste (f)
+    - **artista** (artista) > **artista** (m), **artiste** (f)
 - Los sustantivos terminados en vocal acentuada tienen plural invariable:
-    - città (ciudad) > città
-    - caffè (juventud) > caffè
+    - **città** (ciudad) > **città**
+    - **caffè** (juventud) > **caffè**
 - Los sustantivos extranjeros que terminan en consonante son masculinos y su plural es
 invariable:
-    - film (película) > film
-    - computer (ordenador) > computer
+    - **film** (película) > **film**
+    - **computer** (ordenador) > **computer**
 - Los sustantivos que terminan en -si y -ie tienen el plural invariable:
-    - crisi (crisis) > crisi
-    - specie (especie) > specie
-- El sustantivo masculino uovo (huevo) hace el plural en uova que es femenino.
-- Los sustantivos masculinos que indican partes del cuerpo como braccio (brazo), dito (dedo), labbro (labio) y ginocchio (rodilla) hacen el plural en femenino: braccia, dita, labbra, ginocchia.
+    - **crisi** (crisis) > **crisi**
+    - **specie** (especie) > **specie**
+- El sustantivo masculino **uovo** (huevo) hace el plural en **uova** que es femenino.
+- Los sustantivos masculinos que indican partes del cuerpo como **braccio** (brazo), **dito** (dedo), **labbro** (labio) y **ginocchio** (rodilla) hacen el plural en femenino: **braccia**, **dita**, **labbra**, **ginocchia**.
 
-EL VERBO: salire: subir. Es uno de esos verbos que a los principiantes nos confunden tanto,
+EL VERBO: **salire**: subir. Es uno de esos verbos que a los principiantes nos confunden tanto,
 porque a primera vista parece significar salir, que en italiano se dice usire.
 
-EL CONSEJO: En italiano se utiliza continuamente la expresión ci stai? Para indicar a la otra
-persona si está de acuerdo, si se apunta: Voglio organizzare una partita ci stai?
+EL CONSEJO: En italiano se utiliza continuamente la expresión **ci stai?** Para indicar a la otra
+persona si está de acuerdo, si se apunta: **Voglio organizzare una partita ci stai?**
 
 [1] Es un caso particular porque es femenino acabado en -o pero también hace el plural
 como los sustantivos masculinos, es decir, en -i y no en -e como los femeninos mano >
@@ -158,18 +159,18 @@ Existen dos formas para el articulo determinante masculino[1]:
 
 (Recuerda: pronuncia el grupo consonántico gl como nuestra ll)
 
-La primera forma i l / i se emplea normalmente con las palabras masculinas que empiezan por consonante. La segunda forma lo/ gli se emplea con las palabras masculinas que empiezan por:
+La primera forma **il / i** se emplea normalmente con las palabras masculinas que empiezan por consonante. La segunda forma **lo/ gli** se emplea con las palabras masculinas que empiezan por:
 
-- s + consonante: lo spagnolo / gli spagnoli
-- z : lo zucchino (calabacín)/ gli zucchini
-- gn: lo gnu (ñu)/ gli gnu
-- y: lo yo g u r t / gli yogurt
-- x : lo xenofobo/ gli xenofobi
-- ps: lo psicologo/ gli psicologi
-- p n : lo pneumatico (neumático)/ gli pneumatici
+- s + consonante: **lo sp**agnolo / **gli sp**agnoli
+- z : **lo z**ucchino (calabacín)/ **gli z**ucchini
+- gn: **lo gn**u (ñu)/ **gli gn**u
+- y: **lo y**ogurt / **gli y**ogurt
+- x : **lo x**enofobo/ **gli x**enofobi
+- ps: **lo ps**icologo/ **gli ps**icologi
+- pn : **lo pn**eumatico (neumático)/ **gli pn**eumatici
 - vocal (en este caso se apostrofa l ´): l ´ amico (amigo)/ gli amici
 
-Estas formas se siguen también en los adjetivos bello (bello, bonito) y quello (aquel) al acompañar a sus respectivos sustantivos:
+Estas formas se siguen también en los adjetivos **bello** (bello, bonito) y **quello** (aquel) al acompañar a sus respectivos sustantivos:
 
 |  |  |
 |--|--|
@@ -177,7 +178,7 @@ Estas formas se siguen también en los adjetivos bello (bello, bonito) y quello 
 | bello studente/ begli studente | quello studente/ quegli studenti |
 | bell´ am i c o / begli amici | quell´ amico / quegli amici |
 
-También ocurre lo mismo en el adjetivo buono (bueno).
+También ocurre lo mismo en el adjetivo **buono** (bueno).
 
 Existe solo una forma para el articulo determinante femenino:
 
@@ -186,7 +187,8 @@ Existe solo una forma para el articulo determinante femenino:
 | la (l´) | le |
 
 La forma femenina la/ le se emplea en todos los casos. Cuando la palabra femenina
-empieza por vocal se apostrofa l ´ / l e
+empieza por vocal se apostrofa l´ / le
+
 Existen también dos formas para el artículo indeterminante masculino:
 
 | singular | plural |
@@ -194,9 +196,9 @@ Existen también dos formas para el artículo indeterminante masculino:
 | un | dei/ degli |
 | uno | degli |
 
-Realmente no existen formas propias para el plural del artículo indeterminante, como ocurre en español: unos. El italiano usa estas formas para indicar partición, es decir, que nos referimos solo una parte del todo. La primera forma del masculino un/dei, degli un/dei, degli se emplea tanto para sustantivos que empiecen por consonante como por vocal. Dei sigue los casos del artículo determinante i y degli los casos del artículo determinante gli (solo en el caso de inicio con vocal). La segunda forma del masculino uno/ degli se emplea solo para sustantivos que empiezen por s + consonante, z, gn, y, z, ps, pn.
+Realmente no existen formas propias para el plural del artículo indeterminante, como ocurre en español: unos. El italiano usa estas formas para indicar partición, es decir, que nos referimos solo una parte del todo. La primera forma del masculino **un/dei, degli un/dei, degli** se emplea tanto para sustantivos que empiecen por consonante como por vocal. **Dei** sigue los casos del artículo determinante **i** y **degli** los casos del artículo determinante **gli** (solo en el caso de inicio con vocal). La segunda forma del masculino **uno/ degli** se emplea solo para sustantivos que empiezen por s + consonante, z, gn, y, z, ps, pn.
 
-Solo la forma singular del artículo indeterminante masculino se sigue en los adjetivos nessuno (ningun), alcuno (algún), ciascuno (cualquiera).
+Solo la forma singular del artículo indeterminante masculino se sigue en los adjetivos **nessuno** (ningun), **alcuno** (algún), **ciascuno** (cualquiera).
 
 |  |  |
 |--|--|
@@ -210,15 +212,15 @@ Existe solo una forma para el artículo indeterminante femenino:
 |--|--|
 | una (un´) | delle  |
 
-EL VERBO: dimenticare: olvidar, descuidar. Como podemos observar la forma es totalmente distinta.
+EL VERBO: **dimenticare**: olvidar, descuidar. Como podemos observar la forma es totalmente distinta.
 
-EL CONSEJO: los italianos siempre que responden al teléfono utilizan la forma pronto que se corresponde con nuestra forma española ¿diga?, ¿quién?. La palabra pronto como adjetivo significa también preparado, listo. Ellos dicen pronti, via! Que equivale a preparados, listos, ya!. La palabra española pronto, por otro lado, se traduce en italiano por presto, de ahí a presto: hasta pronto.
+EL CONSEJO: los italianos siempre que responden al teléfono utilizan la forma **pronto** que se corresponde con nuestra forma española ¿diga?, ¿quién?. La palabra pronto como adjetivo significa también preparado, listo. Ellos dicen **pronti, via!** Que equivale a preparados, listos, ya!. La palabra española pronto, por otro lado, se traduce en italiano por **presto**, de ahí **a presto**: hasta pronto.
 
 [1]En el español solo existe una forma para el masculino el/los y nunca se apostrofa.  También en el caso del articulo indeterminante un/unos.
 
 ## 5. Verbi modali e presente di indicativo dei verbi irregolari
 
-Como en el caso del español, en italiano también existen muchas irregularidades de los verbos respecto al modelo de las tres conjugaciones, explicado en la lezione 2.  Entre los verbos irregulares destacan los llamados verbos modales, pues al acompañar a un verbo en infinitivo, indican la modalidad de la acción expresada por dicho verbo, ya sea, posibilidad, necesidad, voluntad o capacidad. Estos verbos son potere potere (poder), dovere (deber), volere (querer) y sapere (saber).
+Como en el caso del español, en italiano también existen muchas irregularidades de los verbos respecto al modelo de las tres conjugaciones, explicado en la lezione 2.  Entre los verbos irregulares destacan los llamados verbos modales, pues al acompañar a un verbo en infinitivo, indican la modalidad de la acción expresada por dicho verbo, ya sea, posibilidad, necesidad, voluntad o capacidad. Estos verbos son **potere** (poder), **dovere** (deber), **volere** (querer) y **sapere** (saber).
 
 | Io | posso | devo | voglio | so |
 |---|---|---|---|---|
@@ -230,78 +232,72 @@ Como en el caso del español, en italiano también existen muchas irregularidade
 
 Existen muchos otros verbos irregulares y muchas más formas irregulares que no citaremos ya que se pueden consultar en cualquier manual de gramática italiana.
 
-Hay que tener en cuenta la diferencia entre los verbos sapere y potree en cuanto a significado. Sapere significa más bien tener la habilidad de hacer una cosa, mientras que potere significa tener la capacidad física de hacer una cosa o tener el permiso de hacer una cosa. No es lo mismo decir que io so giocare a calcio (yo se jugar a fútbol) que decir oggi posso giocare a calcio (hoy puedo jugar a fútbol). En el segundo caso, quizá es porque tus padres no te dejan o porque estás lesionado.
+Hay que tener en cuenta la diferencia entre los verbos sapere y potree en cuanto a significado. Sapere significa más bien tener la habilidad de hacer una cosa, mientras que potere significa tener la capacidad física de hacer una cosa o tener el permiso de hacer una cosa. No es lo mismo decir que **io so giocare a calcio** (yo se jugar a fútbol) que decir **oggi posso giocare a calcio** (hoy puedo jugar a fútbol). En el segundo caso, quizá es porque tus padres no te dejan o porque estás lesionado.
 
-EL VERBO: piacere: gustar, agradar. Literalmente sería como placer. Es un verbo muy empleado en italiano y presenta irregularidades para mantener el sonido ch. Piaccio, piaci Piaccio, piaci, piace, piacciamo, piacete, piacciono. Sobretodo se usa la tercera persona del singular.
+EL VERBO: **piacere**: gustar, agradar. Literalmente sería como placer. Es un verbo muy empleado en italiano y presenta irregularidades para mantener el sonido ch. **Piaccio, piaci Piaccio, piaci, piace, piacciamo, piacete, piacciono.** Sobretodo se usa la tercera persona del singular.
 
 EL CONSEJO: cuando escuchamos a un italiano hablar quedamos impresionados del orden y coherencia que presenta su discurso. Esto se debe, entre otras cosas, a que los italianos emplean continuamente palabras con este fin. Estas palabras las encontramos también en español, pero nosotros no las utilizamos tan a menudo. Estas son algunas de ellas:
 
-- comunque: de todas formas, de todas maneras.
-- infatti: de hecho, en efecto.
-- insomma: en suma, en definitiva, en fin.
-- quindi, dunque: por (lo) tanto, así pues.
-- cioè: es decir, esto es.
+- **comunque**: de todas formas, de todas maneras.
+- **infatti**: de hecho, en efecto.
+- **insomma**: en suma, en definitiva, en fin.
+- **quindi**, dunque: por (lo) tanto, así pues.
+- **cioè**: es decir, esto es.
 
 ## 6. Le preposizioni
 Las preposiciones en italiano no siempre se corresponden con su traducción literal en español. Un caso ejemplar es el siguiente: por el día/noche: di giorno/notte. El uso de las preposiciones se aprende al mismo tiempo que la lengua y es difícil establecer reglas rígidas. Además en el italiano la preposición de tiene dos traducciones literales di, de. Simplemente vamos a citar casos particulares concretos que a primera vista podrían confundirnos:
 
 - A [1] se emplea con nombres de ciudades e islas pequeñas: a Parigi, a Capri
-- Ho studiato a memoria: he estudiado de memoria.
-- Parlare a voce bassa: hablar en voz baja.
-- Studio all´ università: estudio en la universidad.
-- A domani, a presto: hasta mañana, hasta luego.
-- A capodanno, a Pascua, a Natale: en Año nuevo, en Pascua, en Navidad.
-- Parlare a gesti: hablar por señas.
-- Mia sorella tarda ad arrivare: mi hermana tarda en llegar.
-- Ad occhi chiusi: con los ojos cerrados.
-- Ho visto Dani: he visto a Dani. En italiano el complemento directo de persona nunca lleva la preposición a. Conoscere i tuoi: conocer a los tuyos, invitare Luigi: invitar a Luis, telefonare Alfredo: llamar por teléfono a Alfredo.
-- Io penso/ credo a te: yo pienso/ creo en ti.
-- Adatto a: adecuado para.
-- A basso, a altto: hacia abajo, hacia arriba.
-- Davanti, dietro, vicino, sopra, sotto + a: delante, detrás, cerca, encima, debajo de.
-- Andare a teatro: ir al teatro.
-- Camicia a maniche lunghe, a righe, a collo alto: una camisa de manga larga, de
-rallas, de cuello alto.
-- I N se emplea con nombres de naciones, regiones, continentes e islas grandes: in Spagna, in Abruzzo, in Africa, in Sicilia. También con los nombres de calles y plazas: abito in via Azurro (vivo en la calle Azurro). Ci vediamo in piazza Dante (nos vemos en la plaza Dante).
+- **Ho studiato a memoria**: he estudiado de memoria.
+- **Parlare a voce bassa**: hablar en voz baja.
+- **Studio all´ università**: estudio en la universidad.
+- **A domani, a presto**: hasta mañana, hasta luego.
+- **A capodanno, a Pascua, a Natale**: en Año nuevo, en Pascua, en Navidad.
+- **Parlare a gesti**: hablar por señas.
+- **Mia sorella tarda ad arrivare**: mi hermana tarda en llegar.
+- **Ad occhi chiusi**: con los ojos cerrados.
+- **Ho visto Dani**: he visto a Dani. En italiano el complemento directo de persona nunca lleva la preposición a. Conoscere i tuoi: conocer a los tuyos, invitare Luigi: invitar a Luis, telefonare Alfredo: llamar por teléfono a Alfredo.
+- **Io penso/ credo a te**: yo pienso/ creo en ti.
+- **Adatto a**: adecuado para.
+- **A basso, a altto**: hacia abajo, hacia arriba.
+- **Davanti, dietro, vicino, sopra, sotto + a**: delante, detrás, cerca, encima, debajo de.
+- **Andare a teatro**: ir al teatro.
+- **Camicia a maniche lunghe, a righe, a collo alto**: una camisa de manga larga, de rallas, de cuello alto.
+- **In** se emplea con nombres de naciones, regiones, continentes e islas grandes: **in Spagna, in Abruzzo, in Africa, in Sicilia**. También con los nombres de calles y plazas: **abito in via Azurro** (vivo en la calle Azurro). **Ci vediamo in piazza Dante** (nos vemos en la plaza Dante).
 - in se usa con los nombres que terminan en -eria: vado in libreria, in pizzeria (voy a la librería, a la pizzería). Cuando estos lugares son determinados, específicos se usa a + la = alla librería "agora". También decimos: vado in ufficio, in banca, in biblioteca, in classe, in città, in chiesa, in campagna, in piscina, in farmacia, in albergo,etc.
 
-- Restare in piedi: quedarse de pie.
-- Essere in retardo: llegar tarde.
-- In contanti: al contado.
-- In seguito: a continuación.
-- Siamo in cinque per giocare: somos cinco para jugar.
-- Hanno fatto il lavoro in due: Han hecho el trabajo entre los dos.
+- **Restare in piedi**: quedarse de pie.
+- **Essere in retardo**: llegar tarde.
+- **In contanti**: al contado.
+- **In seguito**: a continuación.
+- **Siamo in cinque per giocare**: somos cinco para jugar.
+- **Hanno fatto il lavoro in due**: Han hecho el trabajo entre los dos.
 - D A / D I .Cuando hay un verbo después de un pronombre indefinido qualcosa (cualquier cosa), niente (nada), molto (mucho), etc se usa la preposición da: niente da fare: nada que hacer. Si, en vez, de un verbo es un adjetivo se usa la preposición di di: niente di nuovo: nada nuevo.
 - En las comparaciones la preposición di equivale al que comparativo español:
 Giacamo è più alto di me (Giacomo es más alto que yo).
-- D i se utiliza después de infinitivos: sembra di capire (parece comprender).
-- Penso di sí, penso di no: pienso que sí, pienso que no.
-- Dire di sí, dire que no: decir que sí, decir que no.
+- Di se utiliza después de infinitivos: sembra di capire (parece comprender).
+- **Penso di sí, penso di no**: pienso que sí, pienso que no.
+- **Dire di sí, dire que no**: decir que sí, decir que no.
 - En las oraciones pasivas, el complemento agente va introducido por la preposición da
 da: La casa è stata costruita da lui: la casa ha sido construida por él.
-- Vengo da Valencia: vengo desde Valencia. Sono di Valencia: soy, vengo de
-Valencia.
+- **Vengo da Valencia**: vengo desde Valencia. Sono di Valencia: soy, vengo de Valencia.
 - Si usamos la preposición da... a hacemos referencia a un tiempo con su inicio y
 con su final. Devo fare un compito da settembre a decembre: debo hacer un
 trabajo de Septiembre hasta Diciembre.
-- Vive qui da tre anni: hace tres años que vive aquí.
-- La mia amica vuole un uomo da sposare: mi amiga quiera un hombre para
-casarse.
-- Vengo da Luca: vengo de casa de Luca. Vado da te: voy a tu casa.
-- Dappertutto: en todas partes.
+- **Vive qui da tre anni**: hace tres años que vive aquí.
+- **La mia amica vuole un uomo da sposare**: mi amiga quiera un hombre para casarse.
+- **Vengo da Luca**: vengo de casa de Luca. Vado da te: voy a tu casa.
+- **Dappertutto**: en todas partes.
 - En el caso de la finalidad de las cosas: occhiali da sole (gafas de sol), cane da
 caccia (perro de caza).
-- Io lo faccio da solo: yo lo hago solo.
-- Comportarsi da vero amico: comportarse como un verdadero amigo.
-- Di Lunedí, di Martedí, di Mercoledí Los Lunes, los Martes, los Miércoles...
-- Di giorno, di notte, di mattina, di pomeriggio... por el día, por la noche, por la
-mañana...
-- Da giovane, da vechhio: de joven, de viejo.
+- **Io lo faccio da solo**: yo lo hago solo.
+- **Comportarsi da vero amico**: comportarse como un verdadero amigo.
+- **Di Lunedí, di Martedí, di Mercoledí**: Los Lunes, los Martes, los Miércoles...
+- **Di giorno, di notte, di mattina, di pomeriggio...**: por el día, por la noche, por la mañana...
+- **Da giovane, da vechhio**: de joven, de viejo.
 - PER suele tener los significados de por/ para castellanos.
-
-- PER suele tener los significados de por/ para castellanos.
-- Parto per Parigi: parto a/ para París.
-- Lo ho fatto per me: lo he hecho por mi.
+- **Parto per Parigi**: parto a/ para París.
+- **Lo ho fatto per me**: lo he hecho por mi.
 - Se usa para hacer referencia a un tiempo determinado, a una acción acabada en el tiempo, ya sea pasada o futura: Sono stato qua per due ore (he estado aquí dos horas) andró a Roma per cinque mesi (iré a Roma (para) cinco meses). La preposición da se usa en el caso de que la acción esté todavía continuando en el presente: Aspetto qua da due ore (espero/ llevo esperando aquí dos horas). La acción no esta cerrada porque todavía estamos esperando.
 - En algunos casos tienen el significado de durante: Oggi ha nevicato per tutto il giorno (hoy ha nevado durante todo el dia).
 - anno per anno: año a año.
@@ -452,7 +448,7 @@ EL CONSEJO: En italiano existen dos verbos para el verbo español esperar, al ig
 ## 9. L'imperfetto
 
 La mayoría de los verbos tienen un Imperfetto (pretérito imperfecto) regular.
-|  |  |  | |
+|  |  |  |
 |---|---|---|---|
 | Io | -avo | -evo | -ivo |
 | Tu | -avi | -evi | -ivi |
@@ -496,12 +492,12 @@ Los pronombres directos los usamos para sustituir a complementos directos. Los p
 
 |  |  |
 |---|---|---|
-mi | me | me
-ti | te | te
-lo, la (La) | lui, lei, Lei | lo, la
-ci | noi | nos
-vi | voi | os
-li, le | loro (Loro) | los, las
+| mi | me | me |
+| ti | te | te |
+| lo, la (La) | lui, lei, Lei | lo, la |
+| ci | noi | nos |
+| vi | voi | os |
+| li, le | loro (Loro) | los, las |
 
 Todas las formas débiles de los pronombres directos en italiano pueden apostrofarse, excepto li y le porque sino sus formas apostrofadas serían idénticas a las formas apostrofadas de lo, la.
 
@@ -565,6 +561,8 @@ EL CONSEJO: En italiano para decir que hemos quedado bien o mal delante de algui
 
 En italiano, al igual que en español existen verbos reflexivos y recíprocos. En los verbos reflexivos, la acción la ejecuta y la recibe el mismo sujeto. En los verbos recíprocos, los sujetos son dos o más, al igual que quienes la reciben. Las formas de los pronombres reflexivos son las siguientes:
 
+| | | | |
+|---|---|---|---|
 | mi | me | me (stesso/a) | yo (mismo/a) |
 | ti | te | te (stesso/a) | tú (mismo/a) |
 | si | se | sé (stesso/a) | él, ella, sí (mismo/a) |
