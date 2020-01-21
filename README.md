@@ -31,11 +31,13 @@ parecido de la estructura gramatical con el español.
     la ll italiana es simplemente una prolongación del sonido l, como hemos dicho en el punto de las consonantes dobles. Ejemplos: gli, moglie, consiglio.
 -   El sonido **Z** también es particular, pues no existe paralelismo con el español. La palabra zucchero la pronunciamos parecida al sonido sci, sce, es decir abriendo la boca y dejando salir el aire. La **ZZ**, en cambio la pronunciamos como una tz, un claro ejemplo es la palabra pizza o piazza.
 
-EL VERBO: **diventare**: transformarse en, hacerse, convertirse en. Es un verbo que se emplea mucho y que en español no existe una traducción literal, si en el caso del inglés: to become.
+#### EL VERBO
+**diventare**: transformarse en, hacerse, convertirse en. Es un verbo que se emplea mucho y que en español no existe una traducción literal, si en el caso del inglés: to become.
 
 inglés: to become.
 
-EL CONSEJO: El pronombre personal de primera persona del singular io se pronuncia
+#### EL CONSEJO
+El pronombre personal de primera persona del singular io se pronuncia
 distinto al español yo, pues debemos poner el acento en la i.
 
 [1]La conjunción, pronombre y relativo che equivale al que espanyol.
@@ -97,7 +99,8 @@ también en el español y sirven para la formación de los tiempos compuestos.
 
 Hay que tener en cuenta en la pronunciación del presente de indicativo porque debemos hacer recaer el acento en la antepenúltima sílaba para la tercera persona del plural: am-ano, cred-ono, dorm - o n o .
 
-EL VERBO: **guardare**: mirar. Es uno de esos verbos que a los principiantes nos confunden tanto, porque a primera vista parece significar guardar, verbo que podemos traducir en italiano por varios verbos, dependiendo del contexto:
+#### EL VERBO
+**guardare**: mirar. Es uno de esos verbos que a los principiantes nos confunden tanto, porque a primera vista parece significar guardar, verbo que podemos traducir en italiano por varios verbos, dependiendo del contexto:
 
 -   Conservare (una cosa): conservo la carne nel frigo
 -   Tenere: i soldi gli tengo nella cassaforte
@@ -106,7 +109,8 @@ EL VERBO: **guardare**: mirar. Es uno de esos verbos que a los principiantes nos
 -   Devi osservare le regole
 -   Proteggere, custodire, vigilare, sorvegliare.
 
-EL CONSEJO: En el italiano hablado existen varias expresiones que se utilizan continuamente: **tutto a posto?** que se emplea para saludar de modo informal entre los amigos y que significa ¿todo bien?, **prendere in giro** que significa tomar el pelo y sigue el modelo de los verbos de la segunda conjugación y **complimenti!**  ¡enhorabuena!
+#### EL CONSEJO
+En el italiano hablado existen varias expresiones que se utilizan continuamente: **tutto a posto?** que se emplea para saludar de modo informal entre los amigos y que significa ¿todo bien?, **prendere in giro** que significa tomar el pelo y sigue el modelo de los verbos de la segunda conjugación y **complimenti!**  ¡enhorabuena!
 
 ## 3. La formazione del maschile e del femenile e del plurale nei sostantivi
 
@@ -140,10 +144,12 @@ Obviamente, existen muchas excepciones, simplemente nombraremos algunas:
 -   El sustantivo masculino **uovo** (huevo) hace el plural en **uova** que es femenino.
 -   Los sustantivos masculinos que indican partes del cuerpo como **braccio** (brazo), **dito** (dedo), **labbro** (labio) y **ginocchio** (rodilla) hacen el plural en femenino: **braccia**, **dita**, **labbra**, **ginocchia**.
 
-EL VERBO: **salire**: subir. Es uno de esos verbos que a los principiantes nos confunden tanto,
+#### EL VERBO
+**salire**: subir. Es uno de esos verbos que a los principiantes nos confunden tanto,
 porque a primera vista parece significar salir, que en italiano se dice usire.
 
-EL CONSEJO: En italiano se utiliza continuamente la expresión **ci stai?** Para indicar a la otra
+#### EL CONSEJO
+En italiano se utiliza continuamente la expresión **ci stai?** Para indicar a la otra
 persona si está de acuerdo, si se apunta: **Voglio organizzare una partita ci stai?**
 
 [1] Es un caso particular porque es femenino acabado en -o pero también hace el plural
@@ -214,9 +220,11 @@ Existe solo una forma para el artículo indeterminante femenino:
 | --------- | ------ |
 | una (un´) | delle  |
 
-EL VERBO: **dimenticare**: olvidar, descuidar. Como podemos observar la forma es totalmente distinta.
+#### EL VERBO
+**dimenticare**: olvidar, descuidar. Como podemos observar la forma es totalmente distinta.
 
-EL CONSEJO: los italianos siempre que responden al teléfono utilizan la forma **pronto** que se corresponde con nuestra forma española ¿diga?, ¿quién?. La palabra pronto como adjetivo significa también preparado, listo. Ellos dicen **pronti, via!** Que equivale a preparados, listos, ya!. La palabra española pronto, por otro lado, se traduce en italiano por **presto**, de ahí **a presto**: hasta pronto.
+#### EL CONSEJO
+los italianos siempre que responden al teléfono utilizan la forma **pronto** que se corresponde con nuestra forma española ¿diga?, ¿quién?. La palabra pronto como adjetivo significa también preparado, listo. Ellos dicen **pronti, via!** Que equivale a preparados, listos, ya!. La palabra española pronto, por otro lado, se traduce en italiano por **presto**, de ahí **a presto**: hasta pronto.
 
 [1]En el español solo existe una forma para el masculino el/los y nunca se apostrofa.  También en el caso del articulo indeterminante un/unos.
 
@@ -236,9 +244,11 @@ Existen muchos otros verbos irregulares y muchas más formas irregulares que no 
 
 Hay que tener en cuenta la diferencia entre los verbos sapere y potree en cuanto a significado. Sapere significa más bien tener la habilidad de hacer una cosa, mientras que potere significa tener la capacidad física de hacer una cosa o tener el permiso de hacer una cosa. No es lo mismo decir que **io so giocare a calcio** (yo se jugar a fútbol) que decir **oggi posso giocare a calcio** (hoy puedo jugar a fútbol). En el segundo caso, quizá es porque tus padres no te dejan o porque estás lesionado.
 
-EL VERBO: **piacere**: gustar, agradar. Literalmente sería como placer. Es un verbo muy empleado en italiano y presenta irregularidades para mantener el sonido ch. **Piaccio, piaci Piaccio, piaci, piace, piacciamo, piacete, piacciono.** Sobretodo se usa la tercera persona del singular.
+#### EL VERBO
+**piacere**: gustar, agradar. Literalmente sería como placer. Es un verbo muy empleado en italiano y presenta irregularidades para mantener el sonido ch. **Piaccio, piaci Piaccio, piaci, piace, piacciamo, piacete, piacciono.** Sobretodo se usa la tercera persona del singular.
 
-EL CONSEJO: cuando escuchamos a un italiano hablar quedamos impresionados del orden y coherencia que presenta su discurso. Esto se debe, entre otras cosas, a que los italianos emplean continuamente palabras con este fin. Estas palabras las encontramos también en español, pero nosotros no las utilizamos tan a menudo. Estas son algunas de ellas:
+#### EL CONSEJO
+cuando escuchamos a un italiano hablar quedamos impresionados del orden y coherencia que presenta su discurso. Esto se debe, entre otras cosas, a que los italianos emplean continuamente palabras con este fin. Estas palabras las encontramos también en español, pero nosotros no las utilizamos tan a menudo. Estas son algunas de ellas:
 
 -   **comunque**: de todas formas, de todas maneras.
 -   **infatti**: de hecho, en efecto.
@@ -328,9 +338,11 @@ Otro de los aspectos importantes de las preposiciones italianas es que se pueden
 | da  | dal | dallo | dalla | dall´ | dai | dagli | dalle |
 | su  | sul | sullo | sulla | sull´ | sui | sugli | sulle |
 
-EL VERBO: **riuscire**: salir bien, tener éxito, conseguir. Es un verbo muy empleado en italiano. **Non riesco a capire**: no consigo entender. También se emplea el verbo idiomático facerla: conseguirlo. **Non ce la faccio**: no lo consigo.
+#### EL VERBO
+**riuscire**: salir bien, tener éxito, conseguir. Es un verbo muy empleado en italiano. **Non riesco a capire**: no consigo entender. También se emplea el verbo idiomático facerla: conseguirlo. **Non ce la faccio**: no lo consigo.
 
-EL CONSEJO: seguramente la palabra **capito** sea la palabra más usada en italiano, en tanto que es una muletilla. A los españoles, al principio, nos suena incluso como ofensiva, pues una traducción literal sería ¿entiendes?. **Questa sera devo fare un esame, capito?** Esta tarde tengo que hacer una examen, sabes? Si tienes planeado un vieja a Italia, es momento para ir simpatizando con esta palabra.
+#### EL CONSEJO
+seguramente la palabra **capito** sea la palabra más usada en italiano, en tanto que es una muletilla. A los españoles, al principio, nos suena incluso como ofensiva, pues una traducción literal sería ¿entiendes?. **Questa sera devo fare un esame, capito?** Esta tarde tengo que hacer una examen, sabes? Si tienes planeado un vieja a Italia, es momento para ir simpatizando con esta palabra.
 
 [1]Se convierte en **ad** cuando la palabra siguiente comienza por vocal.
 
@@ -355,9 +367,11 @@ El posesivo loro como observamos en la tabla es invariable y siempre va acompañ
 
 -   **La loro città**: su ciudad (de ellas), le loro città: sus ciudades (de ellas).
 
-EL VERBO: **scegliere**: elegir, escoger. Es un verbo irregular: **scelgo, scegli, sceglie, scegliamo, scegliete, scelgono**. Recordad que lleva el sonido sce.
+#### EL VERBO
+**scegliere**: elegir, escoger. Es un verbo irregular: **scelgo, scegli, sceglie, scegliamo, scegliete, scelgono**. Recordad que lleva el sonido sce.
 
-EL CONSEJO: La cortesía es una cosa importante en Italia. Debemos respetar y dirigirnos cortésmente a quien así lo requiera. Para dirigirnos a ellos, debemos emplear la forma **Lei** para el singular y **Voi** para el plural (en mayúsculas) y acompañarlas de la forma verbal correspondiente: para el singular la tercera y para el plural la segunda. Corresponde a nuestra forma usted y ustedes y empleamos las mismas formas verbales.
+#### EL CONSEJO
+La cortesía es una cosa importante en Italia. Debemos respetar y dirigirnos cortésmente a quien así lo requiera. Para dirigirnos a ellos, debemos emplear la forma **Lei** para el singular y **Voi** para el plural (en mayúsculas) y acompañarlas de la forma verbal correspondiente: para el singular la tercera y para el plural la segunda. Corresponde a nuestra forma usted y ustedes y empleamos las mismas formas verbales.
 
 -   **Lei ha ragione**: Usted tiene razón
 -   **Voi avete ragione**: Ustedes tienen razón.
@@ -450,15 +464,17 @@ Por último, hay que mostrar una tabla con los verbos que no siguen el paradigma
 | vincere (vencer)       | vinto    |
 | vivere (vivir)         | vissuto  |
 
-EL VERBO: **smettere**: dejar, interrumpir. Un consejo: **smetti di fumare**.
+#### EL VERBO
+**smettere**: dejar, interrumpir. Un consejo: **smetti di fumare**.
 
-EL CONSEJO: En italiano existen dos verbos para el verbo español esperar, al igual que en inglés. **Aspettare** (to wait): esperar, dejar pasar el tiempo; **sperare** (to hope): esperar, desear. De aquí nuestras palabras espera y esperanza.
+#### EL CONSEJO
+En italiano existen dos verbos para el verbo español esperar, al igual que en inglés. **Aspettare** (to wait): esperar, dejar pasar el tiempo; **sperare** (to hope): esperar, desear. De aquí nuestras palabras espera y esperanza.
 
 ## 9. L'imperfetto
 
 La mayoría de los verbos tienen un Imperfetto (pretérito imperfecto) regular.
-\|         \|        \|        \|
-\| ------- \| ------ \| ------ \|
+|         |        |        |
+|---------|--------|--------|
 | Io      | -avo   | -evo   |
 | Tu      | -avi   | -evi   |
 | Lui/lei | -ava   | -eva   |
@@ -488,9 +504,11 @@ Además de estas irregularidades hay que añadir los verbos que terminan en -dur
 | traducevate | componevate | traevate |
 | traducevano | componevano | traevano |
 
-EL VERBO: **cancellare**: borrar, anular (vuelo, cita) cancelar. Es un verbo muy empleado en italiano.
+#### EL VERBO
+**cancellare**: borrar, anular (vuelo, cita) cancelar. Es un verbo muy empleado en italiano.
 
-EL CONSEJO: en italiano existen dos verbos para expresar el significado del verbo discutir, o mejor dicho, dos verbos que se emplean con mucha frecuencia y que cada uno tiene muy bien delimitado su significado, cosa que no ocurre en el español. De este modo, **discutere (dibattere)** se refiere a discutir en un sentido constructivo, positivo, mientras que **litigare** se refiere a discutir con sentido negativo, a pelearse. En inglés, ocurre lo mismo con los verbos: to discuss y to argue.
+#### EL CONSEJO
+en italiano existen dos verbos para expresar el significado del verbo discutir, o mejor dicho, dos verbos que se emplean con mucha frecuencia y que cada uno tiene muy bien delimitado su significado, cosa que no ocurre en el español. De este modo, **discutere (dibattere)** se refiere a discutir en un sentido constructivo, positivo, mientras que **litigare** se refiere a discutir con sentido negativo, a pelearse. En inglés, ocurre lo mismo con los verbos: to discuss y to argue.
 
 ## 10. Pronomi diretti e indiretti e combinati
 
@@ -558,9 +576,11 @@ Por último, los pronombres directos e indirectos también se unen a infinitivos
 
 Es necesario hacerlo: è necesario farlo
 
-EL VERBO: ringraziare: agradecer, dar las gracias. Otra característica de este verbo es que rige complemento directo en tanto que verbo transitivo. Entonces diremos ringraziare qualcuno sin la preposición a.
+#### EL VERBO
+**ringraziare**: agradecer, dar las gracias. Otra característica de este verbo es que rige complemento directo en tanto que verbo transitivo. Entonces diremos **ringraziare qualcuno** sin la preposición a.
 
-EL CONSEJO: En italiano para decir que hemos quedado bien o mal delante de alguien utilizamos las expresiones fare brutta/ bella figura.
+#### EL CONSEJO
+En italiano para decir que hemos quedado bien o mal delante de alguien utilizamos las expresiones **fare brutta/ bella figura**.
 
 ## 11. Verbi reflessivi e reciproci. Verbi pronominali.  Verbi impersonali
 
@@ -577,23 +597,23 @@ En italiano, al igual que en español existen verbos reflexivos y recíprocos. E
 
 Las formas para los verbos recíprocos son las mismas, porque realmente un verbo reciproco es como un reflexivo pero ejecutado desde dos o más sujetos.
 
-Aquí hay algunos ejemplos de verbos reflexivos: abbracciarsi (abrazarse), alzarse (levantarse), innamorarsi (enamorarse), pettinarsi (peinarse), vestirse (vestirse).
+Aquí hay algunos ejemplos de verbos reflexivos: **abbracciarsi** (abrazarse), **alzarse** (levantarse), **innamorarsi** (enamorarse), **pettinarsi** (peinarse), **vestirse** (vestirse).
 
-Otra particularidad de estos verbos es que, en los tiempos compuestos, se conjugan todos, sin excepción, con el verbo auxiliar essere. Por lo tanto, el participio pasado concuerda con el sujeto, como hemos visto con el pretérito perfecto o passato prossimo:
+Otra particularidad de estos verbos es que, en los tiempos compuestos, se conjugan todos, sin excepción, con el verbo auxiliar **essere**. Por lo tanto, el participio pasado concuerda con el sujeto, como hemos visto con el pretérito perfecto o passato prossimo:
 
-Mi sono innamorato / a: me he enamorado
+**Mi** sono innamorat**o / a**: **me** he enamorado
 
 Cuando van acompañados de verbos modales que requieren un infinitivo (también stare + gerundio), los pronombres pueden colocarse tanto detrás como delante del verbo:
 
-Mi devo alzare presto: Devo alzarm i presto
+**Mi** devo alzare presto: Devo alzar**mi** presto
 
 En italiano, existen algunos verbos reflexivos terminados en -sela, como ocurre también en español, pero se diferencian en que en italiano se conjugan con el verbo essere para formar los tiempos compuestos, pero su concordancia no sigue la norma, pues su participio pasado solo concuerda con el femenino singular:
 
--   aversela a male: molestarse (tomarsela a mal)
--   cavarsela: arreglárselas
--   prendersela: enfadarse (tomarsela)
--   sentirsela: sentirse capaz de
--   Io m i la sono presa: yo m e he enfadado
+-   **aversela a male**: molestarse (tomarsela a mal)
+-   **cavarsela**: arreglárselas
+-   **prendersela**: enfadarse (tomarsela)
+-   **sentirsela**: sentirse capaz de
+-   **Io m i la sono presa**: yo m e he enfadado
 
 En los verbos reflexivos, el uso del pronombre combinado si si (uno del reflexivo y otro que le da valor impersonal) se transforma en ci si. Este valor impersonal también existe en español: se juega bien aquí: si gioca bene qui. Si este valor impersonal se aplica a un verbo reflexivo en español se coloca solo un pronombre: se se peina todos los días. En italiano debemos colocar ambos: tutti i gorni ci si pettina.
 
@@ -607,37 +627,37 @@ Se ha terminado la leche: è finita il latte
 
 En italiano el uso de algunos verbos pronominales es muy frecuente:
 
--   farcela: conseguirlo, lograrlo
--   fregarsene: no importar
--   sentirsela (di): sentirse capaz (de)
--   andarsene: irse
--   avercela (con qualcuno): tomarla o tomársela con alguien
+-   **farcela**: conseguirlo, lograrlo
+-   **fregarsene**: no importar
+-   **sentirsela (di)**: sentirse capaz (de)
+-   **andarsene**: irse
+-   **avercela (con qualcuno)**: tomarla o tomársela con alguien
 
 Los verbos impersonales son verbos que no se refieren a un sujeto determinado y que solamente se conjugan en tercera persona del singular o en los modos impersonales (infinitivo, gerundio y participio). Muchos de estos verbos expresan fenómenos meteorológicos: farsi giorno (amanecer), farsi notte (anochecer), gelare (helar), nevicare (nevar), piovere (llover), tuonare (tronar), etc.
 
-EL VERBO: mettere: poner, ponerse, meter, meterse. Es uno de los verbos más empleados en italianos. Se usa junto a otras palabras que le aportan a su significado inicial numerosas connotaciones:
+#### EL VERBO
+mettere: poner, ponerse, meter, meterse. Es uno de los verbos más empleados en italianos. Se usa junto a otras palabras que le aportan a su significado inicial numerosas connotaciones:
 
--   mettere fuori (fuera): sacar.
--   mettere insieme (juntos): reunir, juntar.
--   mettere a posto (en un lugar): ordenar.
--   mettere in luce (en luz): aclarar. Enfatizar, resaltar.
--   mettere in moto (en movimiento): encender, mover, activar, poner en marcha.
--   mettere in discussione (en discusión): discutir, debatir.
--   mettere d´accordo (de acuerdo): quedar de acuerdo, conciliar, pacificar.
--   mettere in mostra (en muestra): exponer.
--   mettere a confronto (en confrontación): comparar, parangonar.
--   mettere a disposizione (a disposición): poner a disposición, ofrecer.
--   mettere adosso (encima): vestirse.
--   mettere in chiaro (en claro): aclarar.
--   mettere in evidenza (en evidencia): subrayar, apuntar.
+-   **mettere fuori (fuera)**: sacar.
+-   **mettere insieme (juntos)**: reunir, juntar.
+-   **mettere a posto (en un lugar)**: ordenar.
+-   **mettere in luce (en luz)**: aclarar. Enfatizar, resaltar.
+-   **mettere in moto (en movimiento)**: encender, mover, activar, poner en marcha.
+-   **mettere in discussione (en discusión)**: discutir, debatir.
+-   **mettere d´accordo (de acuerdo)**: quedar de acuerdo, conciliar, pacificar.
+-   **mettere in mostra (en muestra)**: exponer.
+-   **mettere a confronto (en confrontación)**: comparar, parangonar.
+-   **mettere a disposizione (a disposición)**: poner a disposición, ofrecer.
+-   **mettere adosso (encima)**: vestirse.
+-   **mettere in chiaro (en claro)**: aclarar.
+-   **mettere in evidenza (en evidencia)**: subrayar, apuntar.
 
-EL CONSEJO: ci sentiamo es una expresión muy utilizada en el italiano hablado y
-equivale a mantener el contacto, seguir en contacto, llamarse por teléfono, etc. Se
-emplea para las despedidas. También se emplea fatti sentire.
+#### EL CONSEJO
+**Ci sentiamo** es una expresión muy utilizada en el italiano hablado y equivale a mantener el contacto, seguir en contacto, llamarse por teléfono, etc. Se emplea para las despedidas. También se emplea **fatti sentire**.
 
 ## 12. Il futuro
 
-Los usos son similares tanto en español como en italiano. Las tres conjugaciones tienen las mismas terminaciones y sólo existe diferencia en la vocal temática que marca la conjugación: la e para los verbos de la primera y segunda y la i para la tercera conjugación. La primera y la tercera persona del singular llevan acento gráfico.
+Los usos son similares tanto en español como en italiano. Las tres conjugaciones tienen las mismas terminaciones y sólo existe diferencia en la vocal temática que marca la conjugación: la **e** para los verbos de la primera y segunda y la **i** para la tercera conjugación. La primera y la tercera persona del singular llevan acento gráfico.
 
 |         |         |         |         |
 | ------- | ------- | ------- | ------- |
@@ -648,7 +668,7 @@ Los usos son similares tanto en español como en italiano. Las tres conjugacione
 | Voi     | -erete  | -erete  | -irete  |
 | Loro    | -eranno | -eranno | -iranno |
 
-En este tiempo también existen irregularidades, como ocurre con los verbos essere y avere, entre otros:
+En este tiempo también existen irregularidades, como ocurre con los verbos **essere** y **avere**, entre otros:
 
 |         |         |
 | ------- | ------- |
@@ -659,69 +679,73 @@ En este tiempo también existen irregularidades, como ocurre con los verbos esse
 | sarete  | avrete  |
 | saranno | avranno |
 
-Otros verbos irregulares: andare (andrò), bere (berrò), dire (dirò), fare (farò), porre (porrò), potere (potrò), rimanere (rimarrò), sapere (saprò), tenere (terrò), vedere (vedrò) (vedrò), volere (vorrò).
+Otros verbos irregulares: andare (**andrò**), bere (**berrò**), dire (dirò), fare (**farò**), porre (**porrò**), potere (**potrò**), rimanere (**rimarrò**), sapere (**saprò**), tenere (**terrò**), vedere (**vedrò**) (**vedrò**), volere (**vorrò**).
 
 Normalmente los verbos irregulares en este tiempo conservan su mismo tipo de irregularidad en el condicional, como veremos en una de las lecciones posteriores.
 
 Aprovechando que hablamos del Futuro introducimos también el Futuro anteriore (Futuro perfecto). El cual es tiempo compuesto y se forma a partir del futuro de los verbos auxiliares avere o essere + el participio pasado del verbo.
 
--   Avrò parlato habré hablado
--   Sarò venuto habré venido
+-   **Avrò parlato** habré hablado
+-   S**arò venuto** habré venido
 
-EL VERBO: mancare: faltar, carecer, fallecer, faltar (di, a), incumplir. Su significado varía si se usa con el verbo essere o con el verbo avere. La expresión mi machi! Se emplea mucho en el italiano hablado y equivale a te echo de menos.
+#### EL VERBO
+**mancare**: faltar, carecer, fallecer, faltar (di, a), incumplir. Su significado varía si se usa con el verbo essere o con el verbo avere. La expresión **mi machi!** Se emplea mucho en el italiano hablado y equivale a te echo de menos.
 
-EL CONSEJO: en el italiano hablado para expresar cantidad se utiliza mucho la expresión un sacco di (un montón de).
+#### EL CONSEJO
+en el italiano hablado para expresar cantidad se utiliza mucho la expresión **un sacco di** (un montón de).
 
 ## 13. Le particelle ci e ne
 
-Las partículas Ci y Ne son un ejemplo de la diferencia existente entre español e italiano. Se trata de dos partículas que tienen varias funciones y que sustituyen a modo de pronombre y de adverbio dandole más rápidez y coherencia al discurso.
+Las partículas **Ci** y **Ne** son un ejemplo de la diferencia existente entre español e italiano. Se trata de dos partículas que tienen varias funciones y que sustituyen a modo de pronombre y de adverbio dandole más rápidez y coherencia al discurso.
 
-La palabra Ci además de ser el pronombre de la 1º persona del plural como ya hemos visto anteriormente, tiene otras funciones:
+La palabra **Ci** además de ser el pronombre de la 1º persona del plural como ya hemos visto anteriormente, tiene otras funciones:
 
 -   avverbio di luogo: en la oración sustituye y equivale a un qui (in questo luogo), a un là (in quel luogo) y a un per quel luogo.
-    -   Stai bene qui? Sì, ci (qui, in questo luogo) sto benesissimo.
-    -   Andrai a Roma? Sì, ci (là, in quel luogo, a Roma) andrò.
+    -   Stai bene qui? Sì, **ci** (qui, in questo luogo) sto benesissimo.
+    -   Andrai a Roma? Sì, **ci** (là, in quel luogo, a Roma) andrò.
     -   Partirai per Milano? No, non ci (per quel luogo, per Milano) partirò.
--   Pronome che sostituisce una parola o una frase introdotta dalle preposizionea, in, su, con. Possono fare referencia a cose (anche neutre) e a persone.
+-   **Pronome** che sostituisce una parola o una frase introdotta dalle preposizionea, in, su, con. Possono fare referencia a cose (anche neutre) e a persone.
     -   Credi di essere un bel ragazzo? Sì, ci (in questo) credo.
     -   Penserai a quello che to ho detto? Sì, ci (a questa cosa) penserò.
     -   Perché non parlo con Luca? Ci (con questa persona) parlerò questa sera.
--   Ci pleonastico. Molto comune con alcuni verbi come avere, pensare, credere, parlare, ecc. Ha un valore rafforzativo.
--   Ci in locuzioni fisse o espressioni idiomatiche :
-    -   Non ce la faccio più
-    -   Ci vuole due giorni
-    -   Avercela con qualcuno
--   Ci con el verbo essere : c´ è , ci sono, c ´era una volta.
+-   **Ci pleonastico**. Molto comune con alcuni verbi come avere, pensare, credere, parlare, ecc. Ha un valore rafforzativo.
+-   **Ci in locuzioni fisse o espressioni idiomatiche :**
+    -   Non **ce** la faccio più
+    -   **Ci** vuole due giorni
+    -   Aver**ce**la con qualcuno
+-   Ci con el verbo essere : **c**´ è , ci sono, **c** ´era una volta.
 
-La palabra Ne no hace referencia a un pronombre personal. Tiene las siguientes funciones:
+La palabra **Ne** no hace referencia a un pronombre personal. Tiene las siguientes funciones:
 
--   avverbio di luogo: en la oración sustituye y equivale a un da li, da là, da quel luogo.
-    -   Sono stato a Barcelona, ne (da quel luogo) sono appena ritornato.
--   Pronome che sostituisce una parola o una frase introdotta dalle preposizionedi, da. Possono fare referencia a cose (anche neutre) e a persone.
-    -   Ti ricordi dilui? Sì, me ne (di quella persona) ricordo bene.
-    -   Perché non vai dalla nonna? Ne (da questa persona) andrò domani.
-    -   Sai qualcosa di quello accaduto ieri? Sì ne (di quello) so tanto.
--   Ne pleonastico. Ha un valore rafforzativo.
--   Ne in locuzioni fisse o espressioni idiomatiche :
-    -   Non poterne piú
-    -   Aversene a male
-    -   Ne vale la pena
-    -   Ne va della vita
-    -   Volerne, andarsene, starsene, ecc.
--   Ne partitivo. Si usa quando parliamo di una quantità per indicare una parte di essa
+-   **avverbio di luog**o: en la oración sustituye y equivale a un da li, da là, da quel luogo.
+    -   Sono stato a Barcelona, **ne** (da quel luogo) sono appena ritornato.
+-   **Pronome** che sostituisce una parola o una frase introdotta dalle preposizionedi, da. Possono fare referencia a cose (anche neutre) e a persone.
+    -   Ti ricordi dilui? Sì, me **ne** (di quella persona) ricordo bene.
+    -   Perché non vai dalla nonna? **Ne** (da questa persona) andrò domani.
+    -   Sai qualcosa di quello accaduto ieri? Sì **ne** (di quello) so tanto.
+-   **Ne pleonastico**. Ha un valore rafforzativo.
+-   **Ne in locuzioni fisse o espressioni idiomatiche** :
+    -   Non poter**ne** piú
+    -   Averse**ne** a male
+    -   **Ne** vale la pena
+    -   **Ne** va della vita
+    -   Voler**ne**, andarse**ne**, starse**ne**, ecc.
+-   **Ne partitivo**. Si usa quando parliamo di una quantità per indicare una parte di essa
     e sostituisce un nome.
-        \- Quante sigarrete fumi al giorno? Ne fumo cinque.
+        \- Quante sigarrete fumi al giorno? **Ne** fumo cinque.
 
 Debemos recordar algunos matices antes de terminar la lección:
 
--   La parícula ci se transforma en ce cuando va combinado junto a los demás
+-   La parícula **ci** se transforma en **ce** cuando va combinado junto a los demás
     prononbres, aspecto que ya hemos visto en un tema anterior.
--   Quando el ne no se refiere a una cantidad, no concuerda nunca con el participio.
--   La partícula ne siempre va después de los pronombres.
+-   Quando el **ne** no se refiere a una cantidad, no concuerda nunca con el participio.
+-   La partícula **ne** siempre va después de los pronombres.
 
-EL VERBO: consegnare: entregar, dar. Consegna a domicilio: entrega a domicilio.  Consegna contrassegno: entrega contra reembolso.
+#### EL VERBO
+**consegnare**: entregar, dar. Consegna a domicilio: entrega a domicilio.  Consegna contrassegno: entrega contra reembolso.
 
-EL CONSEJO: mi raccomando es una expresión típica en Italia. Cuando uno dice a otro esta expresión lo dice con una intención de cortesía, como pidiendole al otro que por favor que lo haga bien o de la forma que le ha dicho.
+#### EL CONSEJO
+**Mi raccomando** es una expresión típica en Italia. Cuando uno dice a otro esta expresión lo dice con una intención de cortesía, como pidiendole al otro que por favor que lo haga bien o de la forma que le ha dicho.
 
 Domani dobbiamo vincere, mi raccomando ragazzi!
 
@@ -753,12 +777,14 @@ Uno de los problemas de este tiempo verbal es que tiene muchas formas irregulare
 
 Aprovechando que hablamos del Passato remoto introducimos también el Trapassato remoto (Préterito anterior). El cual es tiempo compuesto y se forma a partir del passato remoto de los verbos auxiliares avere o essere + el participio del verbo:
 
--   Ebbi parlato hube hablado
--   Fui venuto hube venido
+-   **Ebbi parlato** hube hablado
+-   **Fui venuto** hube venido
 
-EL VERBO : pulire : limpiar. Es un verbo en -isc y lo empleamos mucho para las tareas de la casa. Pulire i piatti o il pavimento.
+#### EL VERBO
+**pulire** : limpiar. Es un verbo en -isc y lo empleamos mucho para las tareas de la casa. **Pulire i piatti o il pavimento**.
 
-EL CONSEJO : la palabra prego es el reflejo vivo de tan famosa cortesía de los italianos. Se utiliza en muy diversas situaciones. Cuando te piden que te acomodes en una silla, cuando permites pasar a una persona delante o después de que te digan gracias.
+#### EL CONSEJO
+La palabra **prego** es el reflejo vivo de tan famosa cortesía de los italianos. Se utiliza en muy diversas situaciones. Cuando te piden que te acomodes en una silla, cuando permites pasar a una persona delante o después de que te digan gracias.
 
 ## 15. Il trapassato prossimo
 
@@ -778,13 +804,15 @@ del imperfetto de los auxiliares essere o avere + participio pasado del verbo.
 
 Este tiempo verbal sigue las mismas normas que el Passato prossimo (Pretérito perfecto) a la hora de elegir uno de los dos verbos auxiliares. Por lo tanto, también debemos echar un vistazo a los participios irregulares de algunos verbos.
 
-EL VERBO: frequentare: frecuentar. En español se usa poco este verbo, al contrario que ocurre en italiano. En italiano por ejemplo, se dice:
+#### EL VERBO
+frequentare: frecuentar. En español se usa poco este verbo, al contrario que ocurre en italiano. En italiano por ejemplo, se dice:
 
 -   Frequentare l´università, un locale notturno, gli amici. En este caso es un verbo
     intransitivo y significa visitar a menudo.
 -   Frequentare un corso di studi, le lezioni. En este caso es un verbo transitivo y significa asistir con regularidad. En español utilizamos el verbo asistir o simplemente ir.
 
-EL CONSEJO: en italiano para hablar de profesiones utilizamos la siguiente expresión: fare + il lavoro. Io faccio il camariere, lui fa il commesso, noi facciamo il professore.
+#### EL CONSEJO
+en italiano para hablar de profesiones utilizamos la siguiente expresión: fare + il lavoro. Io faccio il camariere, lui fa il commesso, noi facciamo il professore.
 
 ## 16. Pronomi relativi
 
@@ -813,9 +841,11 @@ Otro pronombre relativo en italiano, es el pronombre chi que siempre es singular
 
 Por último, existen en italiano los pronombre relativos il quale, la quale, i quali, le quali, que no son invariables y que, por tanto, concuerdan en género y número con su antecedente. Estos pronombres pueden sustituir a che y a cui. El empleo de unos u otros depende en muchos casos de cual pronombre aclare mejor la ambigüedad que pueda existir en oraciones largas. De todos modos, este último pronombre se usa menos.
 
-EL VERBO: prelevare: sacar, retirar (dinero)
+#### EL VERBO
+prelevare: sacar, retirar (dinero)
 
-EL CONSEJO: Una cosa muy particular del italiano es que en las oraciones
+#### EL CONSEJO
+Una cosa muy particular del italiano es que en las oraciones
 interrogativas emplea la palabra cosa en vez del pronombre interrogativo qué,
 aunque ambas son correctas, esto se observa constantemente en el lenguaje
 hablado?
@@ -872,9 +902,11 @@ Existe una diferencia entre el italiano y el español respecto a este tiempo com
 
 Como observamos en el ejemplo, es español para este valor temporal empleamos un condicional simple.
 
-EL VERBO: prenotare: reservar (mesa, billete, habitación).
+#### EL VERBO
+prenotare: reservar (mesa, billete, habitación).
 
-EL CONSEJO: En italiano la formación de antónimos se realiza a partir de prefijos y sufijos distintos a los que empleamos en el español. Uno de los que llama más la atención es el prefijo s - que equivaldría a nuestro d e s -. Veamos algunos ejemplos:
+#### EL CONSEJO
+En italiano la formación de antónimos se realiza a partir de prefijos y sufijos distintos a los que empleamos en el español. Uno de los que llama más la atención es el prefijo s - que equivaldría a nuestro d e s -. Veamos algunos ejemplos:
 
 -   fortunato: sfortunato
 -   proporzionato: sproporzionato
@@ -899,6 +931,8 @@ En italiano, en cambio, la forma pasiva se puede construir de cuatro formas dist
 -   si + verbo en 3º persona del singular o plural (se puede usar con todos los tiempos verbales, pero con el si pasivante no aperece nunca un complemento agente determinado):
     -   In Spagna si mangia la paella.
 
-EL VERBO: prendere : coger, tomar, conquistar. Se trata de un verbo muy empleado en italiano y que abarca varios verbos que nosotros empleamos en español. En italiano se dice prendere una birra, prendere dei soldi, prendere la destra, prendere l´autobus, etc. El verbo cogliere (coger) del italiano se usa solo para recoger frutos de la tierra por ejemplo. También existe el verbo prendersela (con qualcuno) que equivale a tomarla con alguien o enfadarse con alguien.
+#### EL VERBO
+prendere : coger, tomar, conquistar. Se trata de un verbo muy empleado en italiano y que abarca varios verbos que nosotros empleamos en español. En italiano se dice prendere una birra, prendere dei soldi, prendere la destra, prendere l´autobus, etc. El verbo cogliere (coger) del italiano se usa solo para recoger frutos de la tierra por ejemplo. También existe el verbo prendersela (con qualcuno) que equivale a tomarla con alguien o enfadarse con alguien.
 
-EL CONSEJO: la expresión una cosa del genere es muy usada en las lenguas habladas. En español equivale a una cosa de ese tipo o a algo así.
+#### EL CONSEJO
+la expresión una cosa del genere es muy usada en las lenguas habladas. En español equivale a una cosa de ese tipo o a algo así.
