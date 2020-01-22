@@ -49,7 +49,7 @@ distinto al español yo, pues debemos poner el acento en la i.
 Los verbos essere y avere son los verbos auxiliares más importantes, como ocurre
 también en el español y sirven para la formación de los tiempos compuestos.
 
-|         |       |         |  |
+|         | essere |  avere  |stare  |
 | ------- | ----- | ------- |--|
 | Io      | sono  | ho      |sto|
 | Tu      | sei   | hai     |stai
