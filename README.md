@@ -49,14 +49,14 @@ distinto al español yo, pues debemos poner el acento en la i.
 Los verbos essere y avere son los verbos auxiliares más importantes, como ocurre
 también en el español y sirven para la formación de los tiempos compuestos.
 
-|         |       |         |
-| ------- | ----- | ------- |
-| Io      | sono  | ho      |
-| Tu      | sei   | hai     |
-| Lui/lei | é     | ha      |
-| Noi     | siamo | abbiamo |
-| Voi     | siete | avete   |
-| loro    | sono  | hanno   |
+|         |       |         |  |
+| ------- | ----- | ------- |--|
+| Io      | sono  | ho      |sto|
+| Tu      | sei   | hai     |stai
+| Lui/lei | é     | ha      |sta
+| Noi     | siamo | abbiamo |stiamo
+| Voi     | siete | avete   |state
+| loro    | sono  | hanno   |stano
 
 -   El uso de estos verbos en italiano se corresponde con su uso en español, salvo en
     algunas excepciones.
